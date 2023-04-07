@@ -1,3 +1,3 @@
 # WSA
-
-https://wars-cc026.web.app/
+学生時代作成
+wars-cc026.firebaseapp.com
